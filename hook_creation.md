@@ -1,0 +1,5 @@
+1. **“Hey, future tech wizards! Ever wondered what your dream IT job will look like in just 3 years? In this video, we’re diving into the hottest careers of 2026 that not only pay big bucks but also let you work from anywhere! Stick around, because you don’t want to miss out on the five game-changing roles that will redefine your career path – let’s get into it!”**
+
+2. **“What if I told you the best IT job of 2026 doesn’t even exist yet? Hold onto your keyboards, because in today’s video, we’re predicting the future of tech jobs and how YOU can jump on them before everyone else! Trust me, you’ll want to stay tuned to find out how you can step into a role that could pay you six figures versus being stuck in a boring desk job!”**
+
+3. **“Alright, Gen Z! Are you ready to uncover the coolest and most in-demand IT jobs of 2026? In the next few minutes, I’ll reveal the top positions that are just waiting for young talent like YOU! Whether you’re a coding expert or just love tech, there’s something for everyone. Don’t let the future pass you by – watch till the end to discover your perfect career match!”**

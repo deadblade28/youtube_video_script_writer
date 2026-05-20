@@ -1,0 +1,51 @@
+hook_creation_task:
+  description: >
+    Create 3 highly engaging YouTube video hooks for the topic "{topic}".
+    The hooks should appeal specifically to "{target_audience}" and
+    capture attention within the first 30 seconds of the video.
+
+  expected_output: >
+    3 unique and compelling video hooks written in a conversational tone.
+
+  agent: hook_specialist
+
+
+script_writing_task:
+  description: >
+    Write a complete YouTube video script about "{topic}" for
+    "{target_audience}".
+
+    The script should include:
+    - An engaging introduction
+    - Smooth transitions between sections
+    - Storytelling elements
+    - Audience engagement prompts
+    - A compelling call to action
+
+    After generating the script,use the Script Read Time Estimator tool to estimate narration duration.
+
+  expected_output: >
+    A complete YouTube video script in markdown format with:
+    - Introduction
+    - Main sections
+    - CTA
+    - Estimated read time
+
+    Formatted without '```'.
+
+  agent: script_writer
+
+
+title_thumbnail_task:
+  description: >
+    Generate 5 click-worthy YouTube video titles and
+    3 thumbnail text ideas for "{topic}" targeting
+    "{target_audience}".
+
+  expected_output: >
+    - 5 engaging YouTube titles
+    - 3 compelling thumbnail text ideas
+
+    Formatted as markdown without '```'.
+
+  agent: title_thumbnail_copywriter
